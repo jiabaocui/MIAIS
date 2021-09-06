@@ -60,10 +60,13 @@ python AFD_minimax_full.py test
 <h1>Citation</h1>
 
 ```
-@article{cui2021multitask,
-  title={Multitask Identity-Aware Image Steganography via Minimax Optimization},
+@ARTICLE{9527131,
   author={Cui, Jiabao and Zhang, Pengyi and Li, Songyuan and Zheng, Liangli and Bao, Cuizhu and Xia, Jupeng and Li, Xi},
-  journal={arXiv preprint arXiv:2107.05819},
-  year={2021}
-}
+  journal={IEEE Transactions on Image Processing}, 
+  title={Multitask Identity-Aware Image Steganography via Minimax Optimization}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2021.3107999}}
 ```
