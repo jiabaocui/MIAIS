@@ -65,8 +65,8 @@ python AFD_minimax_full.py test
   journal={IEEE Transactions on Image Processing}, 
   title={Multitask Identity-Aware Image Steganography via Minimax Optimization}, 
   year={2021},
-  volume={},
+  volume={30},
   number={},
-  pages={1-1},
+  pages={8567-8579},
   doi={10.1109/TIP.2021.3107999}}
 ```
